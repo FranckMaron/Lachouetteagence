@@ -7,7 +7,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     width: auto;
-    font-display: swap;
 }
 
 a,
@@ -721,6 +720,12 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.social-icon{
+    color: white;
+}
+.social-icon:hover{
+    cursor: pointer;
+}
 
 h3 {
     font-size: 22px;
@@ -754,7 +759,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
     font-weight: 900;
 }
 
